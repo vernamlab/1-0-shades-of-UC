@@ -12,12 +12,10 @@ Published in *IACR Transactions on Cryptographic Hardware and Embedded Systems (
 ## 📄 Description
 
 - **`datasets/`**  
-  Contains image data used for photonic analysis of triggered combinational blocks. Each subfolder represents a unique trigger pattern or logic function (`block_x`, `block_y`, `block_u`).
+  Contains image data used for photonic analysis of UC blocks. Each subfolder represents a unique UC block (`block_x`, `block_y`, `block_u`). Each of them contains the images required to form the bag of features for that block. 
 
 - **`attack_circuits/`**  
-  Includes two circuit-level illustrations:
-  - `c17_attack.png`: Demonstrates UC trigger embedded in the ISCAS-85 `c17` benchmark.
-  - `adder_1bit_attack.png`: UC trigger embedded in a simple 1-bit ripple-carry adder.
+  Each subfolder contains a dataset of images used to carry out attacks on a specific UC implementation of a circuit. 
 
 ---
 
