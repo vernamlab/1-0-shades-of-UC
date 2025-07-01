@@ -26,17 +26,14 @@ If you use this dataset, please cite our work:
 **BibTeX:**
 
 ```bibtex
-@article{Mehta2024Shades,
-  author    = {Dev M. Mehta and Mohammad Hashemi and Domenic Forte and Shahin Tajik and Fatemeh Ganji},
-  title     = {1/0 Shades of {UC}: Photonic Side‐Channel Analysis of Universal Circuits},
-  journal   = {IACR Trans. Cryptogr. Hardw. Embed. Syst.},
-  volume    = {3},
-  pages     = {574--602},
-  year      = {2024},
-  doi       = {10.46586/tches.v3.i3.574-602},
-  eprint    = {2024/072},
-  archivePrefix = {IACR ePrint},
-  primaryClass  = {cryptography}
+@article{mehta20241,
+  title={1/0 Shades of UC: Photonic Side-Channel Analysis of Universal Circuits},
+  author={Mehta, Dev M and Hashemi, Mohammad and Forte, Domenic and Tajik, Shahin and Ganji, Fatemeh},
+  journal={IACR Transactions on Cryptographic Hardware and Embedded Systems},
+  volume={2024},
+  number={3},
+  pages={574--602},
+  year={2024}
 }
 ```
 
